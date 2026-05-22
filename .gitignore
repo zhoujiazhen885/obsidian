@@ -1,0 +1,12 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/cache
+.trash/
+.DS_Store
+
+# 如果不想同步插件设置
+# .obsidian/community-plugins.json
+# .obsidian/plugins/
+

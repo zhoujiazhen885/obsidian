@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "34a0af68867d0955",
+    "type": "split",
+    "children": [
+      {
+        "id": "18ef695c123e2f67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d07beff53edc30b6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "obsidian/stock/attachments/佰维存储日线图-20260519.png"
+              },
+              "icon": "lucide-image",
+              "title": "佰维存储日线图-20260519"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f13c4df82753591",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b47b7a620453ad7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9cb1eea77f85c41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "99e19da6dd2150f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c4f9923396c4847c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "728fcd01ab118513",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fcbadb7f1a5d623",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "247bc9fa85edcfe0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "持仓股.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "持仓股 的反向链接列表"
+            }
+          },
+          {
+            "id": "a401d2ca434abb4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "持仓股.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "持仓股 的出链列表"
+            }
+          },
+          {
+            "id": "d314d85e53866b66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "529d8d391d67b620",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "6ac8ec9b46cf2f68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "持仓股.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "持仓股 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "d07beff53edc30b6",
+  "lastOpenFiles": [
+    "obsidian/stock/持仓股/688525-佰维存储.md",
+    "obsidian/stock/attachments/佰维存储日线图-20260519.png",
+    "obsidian/stock/持仓股",
+    "obsidian/stock/attachments/企业微信截图_4e7f6a1c-9b12-41e7-8f1e-d63313419671 1.png",
+    "2026-05-18.md",
+    "未命名.base",
+    "持仓股.md",
+    "obsidian/stock/attachments/企业微信截图_4e7f6a1c-9b12-41e7-8f1e-d63313419671.png",
+    "obsidian/stock/持仓股",
+    "obsidian/stock/attachments",
+    "obsidian/stock",
+    "obsidian"
+  ]
+}
