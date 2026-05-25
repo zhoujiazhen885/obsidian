@@ -150,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "未命名.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 的大纲"
             }
           }
         ]
@@ -178,6 +179,7 @@
   },
   "active": "0b20678b06ed64b1",
   "lastOpenFiles": [
+    "未命名.base",
     "科学/探寻人类自身的秘密（8册）.epub",
     "科学",
     "未命名文件夹"
